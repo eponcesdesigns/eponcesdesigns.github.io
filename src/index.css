@@ -1,0 +1,133 @@
+
+body {
+  background-color: var(--surface-900);
+  color: var(--text-color);
+  font-family: var(--font-family-text);
+}
+h1,h2,h3,h4{
+  font-family: var(--font-family-title);
+  font-weight: bold;
+}
+.link{
+  color:var(--surface-400);
+  text-shadow: 2px 2px 2px black;
+  text-decoration: none;
+}
+.link:hover{
+  color:var(--surface-200);
+  text-shadow: 2px 2px 2px black;
+  text-decoration: none;
+  
+}
+.headerBox{
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 2px;
+  padding-bottom: 30px;
+  border: 3px solid var(--surface-1000);
+  background-image: url('components/img/bg_gray_texture.png');
+  background-position: 0%;
+}
+.contentBox{
+  text-align: justify;
+  color: var(--surface-300);
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: .5%;
+  margin-bottom: 2px;
+  padding-bottom: 30px;
+  background-image: url('components/img/bg_dark.jpg');
+  
+  background-attachment: fixed;
+  border: 3px solid var(--surface-1000);
+  background-color: rgb(52, 54, 57);
+}
+.navbar_toogle{
+  background-color: var(--surface-1000);
+  margin: 0;
+}
+.socialBox{
+  text-align: center;
+  margin-top: .5%;
+  background-color: var(--surface-1000);
+}
+.socialText{
+  color: var(--surface-300);
+}
+.whatsapp:hover{
+  color: #00bb2d;
+}
+.whatsappi{
+  color: #00bb2d;
+  text-decoration: none;
+}
+.whatsappi:hover{
+  color: var(--surface-300);
+}
+.messengeri{
+  color: #3b5998;
+  text-decoration: none;
+}
+.messengeri:hover{
+  color: var(--surface-300);
+}
+.facebooki{
+  color: #3b5998;
+  text-decoration: none;
+}
+.facebooki:hover{
+  color: var(--surface-300);
+}
+.facebook:hover{
+  color: #3b5998;
+}
+.correo:hover{
+  color: #db4a39;
+}
+.footerBox{
+  text-align: center;
+  background-color: var(--surface-1000);;
+}
+.imagen{
+  max-width: 50%;
+  margin: 2%;
+}
+:root {
+  --text-color:#495057;
+  --text-color-secondary:#6c757d;
+  --primary-color:#3d0436;
+  --primary-color-text:#ffffff;
+  --font-family-text: 'Comfortaa', cursive;
+  --font-family-title: 'Expletus Sans', cursive;
+  --surface-0:#ffffff;
+  --surface-50:#FAFAFA;
+  --surface-100:#F5F5F5;
+  --surface-200:#EEEEEE;
+  --surface-300:#E0E0E0;
+  --surface-400:#BDBDBD;
+  --surface-500:#9E9E9E;
+  --surface-600:#757575;
+  --surface-700:#616161;
+  --surface-800:#424242;
+  --surface-900:#212121;
+  --surface-1000:#0c0c0c;
+  --surface-ground:rgb(219, 18, 219);;
+  --surface-section:rgb(219, 18, 219);
+  --surface-card:#ffffff;
+  --surface-overlay:#ffffff;
+  --surface-border:rgb(219, 18, 219);
+  --content-padding:1rem;
+  --inline-spacing:0.5rem;
+  --border-radius:3px;
+  --purple-50p:#faf4fb;
+  --purple-100p:#e7cbec;
+  --purple-200p:#d4a2dd;
+  --purple-300p:#c279ce;
+  --purple-400p:#af50bf;
+  --purple-500p:#9c27b0;
+  --purple-600p:#852196;
+  --purple-700p:#6d1b7b;
+  --purple-800p:#561561;
+  --purple-900p:#3e1046;
+}
