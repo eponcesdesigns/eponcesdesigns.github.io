@@ -98,9 +98,11 @@ h1,h2,h3,h4{
 :root {
   --text-color:#495057;
   --text-color-secondary:#6c757d;
-  --primary-color:#c2a78c;
   --primary-color-text:rgb(252, 228, 204);
-  --font-warning-text: #f83715;
+  --primary-color:#3d0436;
+  --primary-color-text:#ffffff;
+  --font-family-text: 'Comfortaa', cursive;
+  --font-family-title: 'Expletus Sans', cursive;
   --surface-0:#ffffff;
   --surface-50:#FAFAFA;
   --surface-100:#F5F5F5;
