@@ -89,7 +89,7 @@ export default class Informacion extends React.Component{
             </div>
             <Container className={this.showMin?'contactContainerMin':'contactContainerMax'} align="justify">
             <p>¿Tienes preguntas específicas que hacerme?</p>
-            <p>Utiliza el siguiente formulario para contactar conmigo y yo te responderé todas tus dudas!</p>
+            <p>Utiliza el siguiente formulario para contactar conmigo y yo responderé todas tus dudas!</p>
             </Container>
             <Container className={this.showMin?'contactContainerMin':'contactContainerMax'}>
                 <Form onSubmit={eventoSubmit} >
