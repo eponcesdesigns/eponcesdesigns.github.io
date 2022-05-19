@@ -87,19 +87,20 @@ h1,h2,h3,h4{
 }
 .footerBox{
   text-align: center;
-  background-color: var(--surface-1000);;
+  background-color: var(--surface-1000);
 }
 .imagen{
   max-width: 50%;
   margin: 2%;
 }
+
+
 :root {
   --text-color:#495057;
   --text-color-secondary:#6c757d;
-  --primary-color:#3d0436;
-  --primary-color-text:#ffffff;
-  --font-family-text: 'Comfortaa', cursive;
-  --font-family-title: 'Expletus Sans', cursive;
+  --primary-color:#c2a78c;
+  --primary-color-text:rgb(252, 228, 204);
+  --font-warning-text: #f83715;
   --surface-0:#ffffff;
   --surface-50:#FAFAFA;
   --surface-100:#F5F5F5;
@@ -120,14 +121,4 @@ h1,h2,h3,h4{
   --content-padding:1rem;
   --inline-spacing:0.5rem;
   --border-radius:3px;
-  --purple-50p:#faf4fb;
-  --purple-100p:#e7cbec;
-  --purple-200p:#d4a2dd;
-  --purple-300p:#c279ce;
-  --purple-400p:#af50bf;
-  --purple-500p:#9c27b0;
-  --purple-600p:#852196;
-  --purple-700p:#6d1b7b;
-  --purple-800p:#561561;
-  --purple-900p:#3e1046;
 }
