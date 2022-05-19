@@ -86,6 +86,7 @@ export default class Informacion extends React.Component{
             <div className='contentBox'>
             <div align="center" className="mt-5">
             <h3 >Mas información</h3>
+            <br/>
             </div>
             <Container className={this.showMin?'contactContainerMin':'contactContainerMax'} align="justify">
             <p>¿Tienes preguntas específicas que hacerme?</p>

@@ -10,6 +10,7 @@ export default class Acerca extends React.Component{
         <div className="contentBox">
             <div align="center" className="mt-5">
             <h3 >Acerca de</h3>
+            <br/>
             </div>
             <div>
                 <p>¡Hola! <br /> soy eponce...</p>
