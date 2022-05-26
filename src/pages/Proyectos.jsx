@@ -16,10 +16,9 @@ export default class Proyectos extends React.Component{
                 <div align="center">
                 <p>
                 <Container>
-                <a className="link" target="_blank" rel="noreferrer" href="https://latialita-v2.netlify.app">
+                <a className="link" target="_blank" rel="noreferrer" href="https://latialita.netlify.app">
                     <h3 >LA TÍA LITA</h3>
                     </a>
-                    
                     <p><b>Sitio para una fotógrafa</b><br />
                     Contiene elementos básicos para muestra y envío de información con toda la seguridad que esto conlleva.
                     <br/>Contiene galería de imágenes personalizada.</p>
