@@ -27,7 +27,7 @@ export default class Proyectos extends React.Component{
                 </p>
                 </div>
                 <div align="center">                    
-                <a target="_blank" rel="noreferrer" href="https://latialita-v2.netlify.app">
+                <a target="_blank" rel="noreferrer" href="https://latialita.netlify.app">
                     <Image className="imagen" src="img/latialita.png"></Image></a>
                 </div>
                 
